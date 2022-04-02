@@ -1,0 +1,58 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="COLOR.COM" resolutions="1x" timestamp="1648887905135">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-__.css" crc="351092704" ref="三原色:近似色:相似色配色法:互补色配色法:技巧:单配色法:index:补色分隔配色法:配色法:三等分配色法:色相"/>
+    <file name="___.css" crc="3905550150" ref="三原色"/>
+    <file name="___1.css" crc="64099744" ref="近似色"/>
+    <file name="______.css" crc="209459157" ref="相似色配色法"/>
+    <file name="______1.css" crc="4149394164" ref="互补色配色法"/>
+    <file name="__1.css" crc="53821207" ref="技巧"/>
+    <file name="____.css" crc="532778773" ref="单配色法"/>
+    <file name="index.css" crc="521215879" ref="index"/>
+    <file name="_______.css" crc="3836876863" ref="补色分隔配色法"/>
+    <file name="___2.css" crc="3894347801" ref="配色法"/>
+    <file name="______2.css" crc="4099168705" ref="三等分配色法"/>
+    <file name="__.css" crc="189019507" ref="色相"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:配色法:技巧:三原色:色相:单配色法:相似色配色法:互补色配色法:近似色:补色分隔配色法:三等分配色法"/>
+    <file name="museutils.js" crc="183364071" ref="index:配色法:技巧:三原色:色相:单配色法:相似色配色法:互补色配色法:近似色:补色分隔配色法:三等分配色法"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:配色法:技巧:三原色:色相:单配色法:相似色配色法:互补色配色法:近似色:补色分隔配色法:三等分配色法"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:配色法:技巧:三原色:色相:单配色法:相似色配色法:互补色配色法:近似色:补色分隔配色法:三等分配色法"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:配色法:技巧:三原色:色相:单配色法:相似色配色法:互补色配色法:近似色:补色分隔配色法:三等分配色法"/>
+  </folder>
+  <folder name="images">
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:配色法"/>
+    <file name="图片1.jpg" crc="277655024" seo="true" ref="index"/>
+    <file name="图片12.png" crc="3851976996" seo="true" ref="配色法"/>
+    <file name="图片23.jpg" crc="4129686994" seo="true" ref="技巧"/>
+    <file name="图片24.jpg" crc="164614627" seo="true" ref="技巧"/>
+    <file name="图片3.png" crc="3777555000" seo="true" ref="三原色"/>
+    <file name="图片4.jpg" crc="3829004186" seo="true" ref="色相"/>
+    <file name="图片13.jpg" crc="4100665590" seo="true" ref="单配色法"/>
+    <file name="图片14.jpg" crc="423414476" seo="true" ref="单配色法"/>
+    <file name="图片15.jpg" crc="503280287" seo="true" ref="相似色配色法"/>
+    <file name="图片16.png" crc="4006705343" seo="true" ref="相似色配色法"/>
+    <file name="图片17.jpg" crc="168914050" seo="true" ref="互补色配色法"/>
+    <file name="图片18.png" crc="464403395" seo="true" ref="互补色配色法"/>
+    <file name="图片5.jpg" crc="250781657" seo="true" ref="近似色"/>
+    <file name="图片6.jpg" crc="3880598009" seo="true" ref="近似色"/>
+    <file name="图片7.jpg" crc="4250184777" seo="true" ref="近似色"/>
+    <file name="图片8.jpg" crc="288800138" seo="true" ref="近似色"/>
+    <file name="图片19.jpg" crc="306661261" seo="true" ref="补色分隔配色法"/>
+    <file name="图片20.png" crc="4155469633" seo="true" ref="补色分隔配色法"/>
+    <file name="图片21.jpg" crc="267462910" seo="true" ref="三等分配色法"/>
+    <file name="图片22.jpg" crc="3990117667" seo="true" ref="三等分配色法"/>
+  </folder>
+  <file name="index.html" crc="4069374628" seo="true" mt="1648887235382" redirect="true"/>
+  <file name="配色法.html" crc="180497165" seo="true" mt="1648887873861" redirect="true"/>
+  <file name="技巧.html" crc="5554758" seo="true" mt="1648887686608" redirect="true"/>
+  <file name="三原色.html" crc="3796916886" seo="true" mt="1648887235382" redirect="true"/>
+  <file name="色相.html" crc="277557432" seo="true" mt="1648887235382" redirect="true"/>
+  <file name="单配色法.html" crc="463393449" seo="true" mt="1648887235382" redirect="true"/>
+  <file name="相似色配色法.html" crc="3849170545" seo="true" mt="1648887235382" redirect="true"/>
+  <file name="互补色配色法.html" crc="3905202517" seo="true" mt="1648887235382" redirect="true"/>
+  <file name="近似色.html" crc="4233630089" seo="true" mt="1648887235382" redirect="true"/>
+  <file name="补色分隔配色法.html" crc="476564494" seo="true" mt="1648887235382" redirect="true"/>
+  <file name="三等分配色法.html" crc="307265536" seo="true" mt="1648887235382" redirect="true"/>
+</manifest>
